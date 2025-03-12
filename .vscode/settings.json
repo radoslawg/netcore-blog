@@ -1,0 +1,7 @@
+{
+        "github.copilot.chat.commitMessageGeneration.instructions": [
+    {
+        "text": "Git commit message should consist of two parts. First line starts with gitmoji and short description of changes. Then on next line with bullet points give detailed descriptions of each change that consist of this commit and purpose of commit, problem it solves, and any other relevant information.",
+    }
+        ],
+}
