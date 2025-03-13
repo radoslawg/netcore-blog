@@ -422,3 +422,7 @@ obj/
 .ionide
 
 # End of https://www.toptal.com/developers/gitignore/api/csharp,visualstudiocode,dotnetcore
+
+*.db
+*.db-shm
+*.db-wal
