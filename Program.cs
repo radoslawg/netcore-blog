@@ -1,9 +1,5 @@
 using Blog.Data;
 using Microsoft.EntityFrameworkCore;
-using SQLitePCL;
-
-// Initialize SQLite
-Batteries.Init();
 
 var builder = WebApplication.CreateBuilder(args);
 
